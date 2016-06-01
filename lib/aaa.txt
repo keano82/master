@@ -5,3 +5,5 @@ add default value
 add comment
 
 Author : mr xoxo
+
+greet function
